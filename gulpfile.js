@@ -8,10 +8,8 @@ var gulp = require('gulp'),
     jshint = require('gulp-jshint'),
     inject = require('gulp-inject'),
     browserSync = require('browser-sync').create(),
-    wiredep = require('wiredep').stream,
     nib=require('nib'),
     imagemin = require('gulp-imagemin'),
-    rimraf = require('gulp-rimraf'),
     uglify = require('gulp-uglify');
 
 /*
