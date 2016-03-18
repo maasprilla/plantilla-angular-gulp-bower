@@ -1,0 +1,27 @@
+{
+  "name": "botica-frontend",
+  "version": "1.0.0",
+  "description": "cliente del aplicativo web botica desarrollado en angular",
+  "main": "services.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "botica"
+  ],
+  "author": "botica",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-stylus": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.1",
+    "nib": "^1.1.0"
+  }
+}

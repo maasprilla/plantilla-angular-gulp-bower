@@ -1,0 +1,28 @@
+{
+  "name": "botica-frontend",
+  "description": "cliente del aplicativo web botica desarrollado en angular",
+  "main": "services.js",
+  "authors": [
+    "botica"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "botica"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.1",
+    "angular-resource": "^1.5.0",
+    "angular-ui-router": "^0.2.18",
+    "angular-filter": "^0.5.8",
+    "satellizer": "^0.14.0",
+    "angular-material": "^1.0.6",
+    "material-design-lite": "^1.1.2",
+    "bootstrap-material-design": "^0.5.9",
+    "jquery": "^2.2.2"
+  }
+}
